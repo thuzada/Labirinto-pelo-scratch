@@ -72,6 +72,8 @@ Desafie-se a completar todos os três níveis do Jogo de Labirinto! Boa sorte e 
 
 Este jogo foi criado como um projeto de aprendizado e está disponível sob a [Licença Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). Você é livre para compartilhar e adaptar o jogo para fins não comerciais, desde que atribua crédito ao autor e compartilhe as adaptações sob a mesma licença.
 
+## Link para acesso
+  https://scratch.mit.edu/projects/987062610
 ---
 
 Divirta-se jogando o Jogo de Labirinto e desafiando suas habilidades!
